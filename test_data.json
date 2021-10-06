@@ -1,0 +1,112 @@
+[
+    {
+        "plan_id": "1",
+        "pricing": {
+            "lines": "1.12",
+            "lite_lines": "2.12",
+            "agents": "3.12",
+            "lite_support_agents": "4.12",
+            "magenta_lines": "5.12",
+            "room_lines": "6.12",
+            "tollfree_room_lines": "7.12",
+            "group_lines": "8.12",
+            "tollfree_group_lines": "9.12",
+            "fax_lines": "1.34",
+            "uc_tier_1": "1.45",
+            "uc_tollfree_tier_1": "1.56",
+            "tollfree_tier_b": "1.67",
+            "tollfree_tier_c": "1.78",
+            "tollfree_tier_d": "1.89",
+            "local_presence_top100": "1.90",
+            "local_presence_all": "2.23"
+        }
+    },
+    {
+        "plan_id": "2",
+        "pricing": {
+            "lines": "2.22",
+            "lite_lines": "2.23",
+            "agents": "2.24",
+            "lite_support_agents": "2.25",
+            "magenta_lines": "2.26",
+            "room_lines": "2.27",
+            "tollfree_room_lines": "2.28",
+            "group_lines": "2.29",
+            "tollfree_group_lines": "2.30",
+            "fax_lines": "2.31",
+            "uc_tier_1": "2.32",
+            "uc_tollfree_tier_1": "2.33",
+            "tollfree_tier_b": "2.34",
+            "tollfree_tier_c": "2.35",
+            "tollfree_tier_d": "2.36",
+            "local_presence_top100": "2.37",
+            "local_presence_all": "2.38"
+        }
+    },
+    {
+        "plan_id": "3",
+        "pricing": {
+            "lines": "3.22",
+            "lite_lines": "3.23",
+            "agents": "3.24",
+            "lite_support_agents": "3.25",
+            "magenta_lines": "3.26",
+            "room_lines": "3.27",
+            "tollfree_room_lines": "3.28",
+            "group_lines": "3.29",
+            "tollfree_group_lines": "3.30",
+            "fax_lines": "3.31",
+            "uc_tier_1": "3.32",
+            "uc_tollfree_tier_1": "3.33",
+            "tollfree_tier_b": "3.34",
+            "tollfree_tier_c": "3.35",
+            "tollfree_tier_d": "3.36",
+            "local_presence_top100": "3.37",
+            "local_presence_all": "3.38"
+        }
+    },
+    {
+        "plan_id": "4",
+        "pricing": {
+            "lines": "4.22",
+            "lite_lines": "4.23",
+            "agents": "4.24",
+            "lite_support_agents": "4.25",
+            "magenta_lines": "4.26",
+            "room_lines": "4.27",
+            "tollfree_room_lines": "4.28",
+            "group_lines": "4.29",
+            "tollfree_group_lines": "4.30",
+            "fax_lines": "4.31",
+            "uc_tier_1": "4.32",
+            "uc_tollfree_tier_1": "4.33",
+            "tollfree_tier_b": "4.34",
+            "tollfree_tier_c": "4.35",
+            "tollfree_tier_d": "4.36",
+            "local_presence_top100": "4.37",
+            "local_presence_all": "4.38"
+        }
+    },
+    {
+        "plan_id": "5",
+        "pricing": {
+            "lines": "5.22",
+            "lite_lines": "5.23",
+            "agents": "5.24",
+            "lite_support_agents": "5.25",
+            "magenta_lines": "5.26",
+            "room_lines": "5.27",
+            "tollfree_room_lines": "5.28",
+            "group_lines": "5.29",
+            "tollfree_group_lines": "5.30",
+            "fax_lines": "5.31",
+            "uc_tier_1": "5.32",
+            "uc_tollfree_tier_1": "5.33",
+            "tollfree_tier_b": "5.34",
+            "tollfree_tier_c": "5.35",
+            "tollfree_tier_d": "5.36",
+            "local_presence_top100": "5.37",
+            "local_presence_all": "5.38"
+        }
+    }
+]
